@@ -1,0 +1,76 @@
+2a0:5600:8:7:4b::1
+86.62.91.43 4.5.6.6.localdomain
+86.62.91.43 local
+255.255.255.252 broadcasthost
+::1 4.5.6.6
+::1 ip6-4.5.6.6
+::1 ip6-loopback
+94:87:e0:79:6d:1b ip6-localnet
+94:87:e0:79:6d:1b ip6-mcastprefix
+fc:a6:cd:af:0d:30 ip6-allnodes
+fc:a6:cd:af:0d:30 ip6-allrouters
+255.255.255.252  4.5.6.6
+::1                              ip6-4.5.6.6
+2a0:5600:8:7:4b::1
+101.226.233.246 cloud.gsdk.proximabeta.com
+119.28.229.113 cdn.wetest.qq.com
+50.203.239.27 receiver.sg.tdm.qq.com
+203.205.219.228 lh3.googleusercontent.com
+172.217.166.97 napubgm.broker.tplay.qq.com
+49.51.42.39 lobby.igamecj.com
+150.109.35.170 csoversea.mbgame.gamesafe.qq.com
+125.214.166.57 vmp.qq.com
+203.205.137.29 astat.bugly.qcloud.com
+150.109.29.135 tencentgames.helpshift.com
+54.215.192.91 cloudctrl.gcloud.qq.com
+150.109.13.34 qos.hk.gcloudcs.com
+119.28.121.21 napubgm.broker.tplay.qq.com
+49.51.42.39 client-beta.pubgameshowtime.com
+150.109.28.183 csoversea.mbgame.gamesafe.qq.com
+170.106.134.228 app.adjust.com
+185.151.204.9 graph.facebook.com
+31.13.79.18 intldlgs.qq.com
+54.215.218.124 www.pubgmobile.com
+125.214.166.8 idcconfig.gcloud.qq.com
+203.205.219.228 lh3.googleusercontent.com
+172.217.166.97 napubgm.broker.tplay.qq.com
+49.51.42.39 lobby.igamecj.com
+150.109.35.170 csoversea.mbgame.gamesafe.qq.com
+125.214.166.57 vmp.qq.com
+203.205.137.29 astat.bugly.qcloud.com
+150.109.29.135 tencentgames.helpshift.com
+54.215.192.91 cloudctrl.gcloud.qq.com
+150.109.13.34 qos.hk.gcloudcs.com
+119.28.121.21 napubgm.broker.tplay.qq.com
+49.51.42.39 client-beta.pubgameshowtime.com
+
+127.0.0.1 file.igamecj.com
+127.0.0.1 filecdn.igamecj.com
+127.0.0.1 121.51.36.46
+
+4.5.6.6 .qq.com
+4.5.6.6 .opensdk.com
+4.5.6.6 .naver.com
+4.5.6.6 .app-measurement.com
+4.5.6.6 .org
+4.5.6.6 .pubgmobile.com
+4.5.6.6 .sl-reverse.com
+4.5.6.6 .net
+4.5.6.6 .pubgameshowtime.com
+4.5.6.6 .googleusercontant.com
+4.5.6.6 .qcloud.com
+4.5.6.6 .akamaitechnologies.com
+2a0:5600:8:7:4b::1
+86.62.91.43 4.5.6.6.localdomain
+86.62.91.43 local
+255.255.255.252 broadcasthost
+::1 4.5.6.6
+::1 ip6-4.5.6.6
+::1 ip6-loopback
+94:87:e0:79:6d:1b ip6-localnet
+94:87:e0:79:6d:1b ip6-mcastprefix
+fc:a6:cd:af:0d:30 ip6-allnodes
+fc:a6:cd:af:0d:30 ip6-allrouters
+255.255.255.252  4.5.6.6
+::1                              ip6-4.5.6.6
+2a0:5600:8:7:4b::1
