@@ -1,7 +1,7 @@
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
-255.255.255.255 broadcasthost
+255.255.255.255 broadcast hosts
 ::1 localhost
 2404:6800:4003:c04::bc
 2600:140f:d800:19d::180c
@@ -9,8 +9,9 @@
 2600:140f:d800:1a5::180c
 2600:140f:d800:1b8::180c
 ff02::2
-.
 
+127.0.0.1 file.igamecj.com
+127.0.0.1 filecdn.igamecj.com
 
 127.0.0.1 youtubei.googleapis.com
 127.0.0.1 www.pubgmobile.com
