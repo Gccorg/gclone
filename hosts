@@ -1,6 +1,9 @@
 
-127.0.0.1 local host
+127.0.0.1 localhost
 255.255.255.255 broadcast
 
 127.0.0.1 file.igamecj.com
 127.0.0.1 filecdn.igamecj.com
+
+127.0.0.1 121.51.36.46
+
